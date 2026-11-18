@@ -1,0 +1,2 @@
+Dataset: https://www.kaggle.com/datasets/weitianqi/plantseg
+Model saved from training: https://www.kaggle.com/datasets/rawanwalidmostafa/last-saved-for-test-after-local-run
